@@ -44,7 +44,7 @@
     "d3": "^4.10.0",
     "d3-tip": "^0.7.1",
     "lodash": "^4.17.4",
-    "sanitize-html": "^1.14.1",
+    "sanitize-html": "^2.12.1",
     "tabletop": "^1.5.2"
   }
 }
